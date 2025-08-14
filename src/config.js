@@ -3,7 +3,7 @@ const config = {
 	metaData: {
 		title: 'Takina的个人主页🎉',
 		description: '欢迎来到Takina的奇妙世界！',
-		keywords: 'Takina,Takina,个人主页,个人网站',
+		keywords: 'Takina,Takina,个人主页,个人网站,作品集',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
