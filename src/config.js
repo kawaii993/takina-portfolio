@@ -4,7 +4,7 @@ const config = {
 		title: 'Takina的个人主页🎉',
 		description: '欢迎来到Takina的奇妙世界！',
 		keywords: 'Takina,Takina,个人主页,个人网站',
-		icon: '/favicon.ico'   //网页图标，支持外链
+		icon: '/img/icon.png'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
