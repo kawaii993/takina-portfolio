@@ -37,9 +37,9 @@ const config = {
 		"mobile": {   //移动端
 			"type": "pic",
 			"datainfo": {
-				"title": "0001",
-				"preview": "/img/wallpaper/static-mobile/0001/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0001/image.png"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
+				"title": "0005",
+				"preview": "/img/wallpaper/static-mobile/0005/image-pre.webp",
+				"url": "/img/wallpaper/static-mobile/0005/image.png"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
 			}
 		}
 
